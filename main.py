@@ -30,7 +30,7 @@ if __name__ == "__main__":  # code principal
     canvas.pack()
     solve_button.pack()
     quit_button.pack()
-    root.bind("<KeyRelease-space>", lambda event : root.destroy())  #-----------TEMP UTILE POUR CODER, FERME PLUS RAPIDEMENT LE FENÊTRE
+    # root.bind("<KeyRelease-space>", lambda event : root.destroy())  #-----------TEMP UTILE POUR CODER, FERME PLUS RAPIDEMENT LE FENÊTRE
     root.bind("<Button-1>", click_events)
     root.bind('a', lambda event : rectangles.move_rec(rectangles.pile_tower1))
     root.bind('z', lambda event : rectangles.move_rec(rectangles.pile_tower2))
