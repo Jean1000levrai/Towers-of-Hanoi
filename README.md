@@ -31,9 +31,9 @@ bash
 ### 3. Launch it and Play!
 bash
 ```
-    cd path/to/your/folder
-    python3 main.py
-    ```
+   cd path/to/your/folder
+python3 main.py
+```
 
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
