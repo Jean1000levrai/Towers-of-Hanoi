@@ -25,13 +25,15 @@ bash
    git clone git@github.com:Jean1000levrai/Towers-of-Hanoi.git
    python3 -m venv .venv
    source .venv/bin/activate    # look it up for windows
-   pip install -r requirements.txt````
+   pip install -r requirements.txt
+   ```
 
 ### 3. Launch it and Play!
 bash
 ```
     cd path/to/your/folder
-    python3 main.py````
+    python3 main.py
+    ```
 
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
