@@ -20,11 +20,12 @@ Play the towers of hanoi or solve them
 - nothing more, YAYY XD
 
 ### 2. Download
+#### In any shell, or PowerShell for Windows
 bash 
 ```
 git clone git@github.com:Jean1000levrai/Towers-of-Hanoi.git
 python3 -m venv .venv
-source .venv/bin/activate    # look it up for windows
+source .venv/bin/activate    #windows: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
    ```
 
