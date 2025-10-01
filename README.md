@@ -1,6 +1,14 @@
 # English
 ---
 # Towers-of-Hanoi
+
+## 📑 Table of Contents
+[ℹ️ About](#-about)  
+[✅ Features](#-features)  
+[🛠️ Installation](#-installation)   
+[📄 License](#-license)
+
+## ℹ️ About
 This is a project made by me (Jean1000) when I was in high school. I learnt about the Tower of Hanoi, and how to solve problems through code. This project put to a challenge my problem solving skills. 
 Play the towers of hanoi or solve them
 
