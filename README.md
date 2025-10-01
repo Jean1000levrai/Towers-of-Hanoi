@@ -26,7 +26,7 @@ bash
 git clone git@github.com:Jean1000levrai/Towers-of-Hanoi.git
 cd Towers-of-Hanoi
 python3 -m venv .venv
-source .venv/bin/activate    #windows: .venv\Scripts\Activate.ps1
+source .venv/bin/activate    # windows: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
    ```
 
@@ -34,6 +34,7 @@ pip install -r requirements.txt
 bash
 ```
 cd path/to/your/folder
+cd src   # don't forget this
 python3 main.py
 ```
 
