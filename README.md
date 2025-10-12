@@ -2,6 +2,9 @@
 ---
 # Towers-of-Hanoi
 
+### Example for 2 Rings
+![tower_preview](ressources/hanoi_preview.gif)
+
 ## 📑 Table of Contents
 [ℹ️ About](#-about)  
 [✅ Features](#-features)  
