@@ -1,6 +1,5 @@
-# English
----
 # Towers-of-Hanoi
+[![Licence](https://hackatime-badge.hackclub.com/U0811ME6L0J/tour_de_hanoi)](./LICENSE) 
 
 ### Example for 2 Rings
 ![tower_preview](ressources/hanoi_preview.gif)
